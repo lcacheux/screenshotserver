@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">screenshotClient</string>
+    <string name="take_screenshot">Take screenshot</string>
+    <string name="connexion_error">Connexion error</string>
+</resources>
